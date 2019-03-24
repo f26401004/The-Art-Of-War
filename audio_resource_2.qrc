@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Audio/BGM/hard_bgm_1.mp3</file>
+        <file>Audio/BGM/hard_bgm_2.mp3</file>
+    </qresource>
+</RCC>

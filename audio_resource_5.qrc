@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Audio/BGM/nightmare_bgm_3.mp3</file>
+    </qresource>
+</RCC>
